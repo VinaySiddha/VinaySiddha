@@ -24,9 +24,9 @@ I am a passionate software developer with a love for learning and problem-solvin
 
 ## Projects
 
-Here is my favorite projects:
+Here is my favorite project:
 
-- **[GenAI](https://github.com/VinaySiddha/GenAI)**  
+**[GenAI](https://github.com/VinaySiddha/GenAI)**  
   _# 🚀 Generative AI Project: OpenAI API, RAG, CREW AI, LangChain, LangSmith, LangGraph
 
 ## 🌟 Overview
@@ -72,9 +72,9 @@ This project integrates cutting-edge technologies like OpenAI's API, Retrieval-A
 
 I’m always excited to connect with like-minded individuals! Feel free to reach out:
 
-- 📧 Email: vinaysiddha19@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/vinay-kumar-siddha-a646b7246/
-- 🐦 Twitter: https://x.com/VinaySiddha
-- 🌐 Portfolio: https://vinaysiddha.github.io/vinaysiddha20.github.io/
+- 📧 Email: [vinaysiddha19@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/vinay-kumar-siddha-a646b7246/]
+- 🐦 Twitter: [https://x.com/VinaySiddha]
+- 🌐 Portfolio: [https://vinaysiddha.github.io/vinaysiddha20.github.io/]
 
 Let's build something amazing together!
