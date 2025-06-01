@@ -1,7 +1,7 @@
 # Hello, I'm Vinay Siddha! 👋
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/3o7aD6XXIv7lXup4Gs/giphy.gif" alt="Coding GIF" width="400" style="border-radius: 10px;" />
+<!--   <img src="https://media3.giphy.com/media/3o7aD6XXIv7lXup4Gs/giphy.gif" alt="Coding GIF" width="400" style="border-radius: 10px;" /> -->
 </p>
 
 Welcome to my GitHub profile! I am a passionate software developer with a love for learning and problem-solving. I enjoy working on various technologies and constantly strive to improve my skills. My projects range from web development to AI-powered tools.
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a love f
 
 ### 🌐 Programming Languages:
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,cs" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,java" alt="Languages" />
 </p>
 
 ### 🎨 Web Development:
