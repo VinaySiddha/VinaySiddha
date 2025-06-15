@@ -50,55 +50,6 @@ Welcome to my GitHub profile! I am a passionate software developer with a love f
 
 ---
 
-## 🚀 Projects
-
-> **Here are some of my favorite projects:**  
-
-### 🌐 [GenAI](https://github.com/VinaySiddha/GenAI) 🚀  
-<p align="center">
-  <img src="https://dummyimage.com/600x300/1E90FF/ffffff&text=Gen+AI+Project" alt="Gen AI" width="600" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(30, 144, 255, 0.5);" />
-</p>
-<p align="center">
-  A cutting-edge AI platform to build and scale intelligent applications effortlessly.
-</p>
-<p align="center">
-  <a href="https://github.com/VinaySiddha/gen-ai" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20Project-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" />
-  </a>
-</p>
-
----
-
-### 💊 [Pharmacy](https://github.com/VinaySiddha/pharmacy) 💉  
-<p align="center">
-  <img src="https://dummyimage.com/600x300/32CD32/ffffff&text=Pharmacy+Project" alt="Pharmacy" width="600" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(50, 205, 50, 0.5);" />
-</p>
-<p align="center">
-  An intuitive system designed to manage pharmacy operations seamlessly.
-</p>
-<p align="center">
-  <a href="https://github.com/VinaySiddha/pharmacy" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20Project-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" />
-  </a>
-</p>
-
----
-
-### 🌌 [TechEuphoria2k25](https://github.com/VinaySiddha/techeuphoria2k25) 🚀  
-<p align="center">
-  <img src="https://dummyimage.com/600x300/FF4500/ffffff&text=TechEuphoria2k25+Project" alt="TechEuphoria2k25" width="600" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(255, 69, 0, 0.5);" />
-</p>
-<p align="center">
-  A futuristic tech festival celebrating innovation and creativity in technology.
-</p>
-<p align="center">
-  <a href="https://github.com/VinaySiddha/techeuphoria2k25" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" />
-  </a>
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
