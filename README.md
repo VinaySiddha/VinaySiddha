@@ -214,7 +214,7 @@ const vinay = new Developer();
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinaySiddha&repo=pharmacy&theme=react&border_radius=10)](https://github.com/VinaySiddha/your-amazing-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinaySiddha&repo=genai&theme=react&border_radius=10)](https://github.com/VinaySiddha/another-cool-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinaySiddha&repo=TechEuphoria2k25theme=react&border_radius=10)](https://github.com/VinaySiddha/another-cool-project)
 
 </div>
 
