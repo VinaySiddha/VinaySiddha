@@ -128,8 +128,8 @@ class Developer {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinaySiddha&repo=pharmacy&theme=react&border_radius=10)](https://github.com/VinaySiddha/pharmacy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinaySiddha&repo=TechEuphoria2k25&theme=react&border_radius=10)](https://github.com/VinaySiddha/TechEuphoria2k25)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinaySiddha&repo=SVEC-CMS&theme=react&border_radius=10)](https://github.com/VinaySiddha/SVEC-CMS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinaySiddha&repo=mlsc.svec&theme=react&border_radius=10)](https://github.com/VinaySiddha/mlsc.svec)
 
 </div>
 
